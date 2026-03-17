@@ -1,0 +1,26 @@
+{
+  "20240001": {
+    "student_id": "20240001",
+    "name": "张三",
+    "gender": "男",
+    "birth_date": "2005-03",
+    "class_name": "高一（3）班",
+    "enroll_year": "2024"
+  },
+  "20240002": {
+    "student_id": "20240002",
+    "name": "李四",
+    "gender": "女",
+    "birth_date": "2005-06",
+    "class_name": "高一（3）班",
+    "enroll_year": "2024"
+  },
+  "20240003": {
+    "student_id": "20240003",
+    "name": "王五",
+    "gender": "男",
+    "birth_date": "2005-09",
+    "class_name": "高一（5）班",
+    "enroll_year": "2024"
+  }
+}
